@@ -1,3 +1,4 @@
+![logo](https://github.com/bhaveshsharmaa/bhaveshsharmaa/blob/main/gthb.jpg)
 <h1 align="center">Hi 👋, I'm Bhavesh Kumar Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
