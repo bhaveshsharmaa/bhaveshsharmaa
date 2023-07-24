@@ -8,11 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/itbhaveshpandit" target="blank"><img src="https://img.shields.io/twitter/follow/itbhaveshpandit?logo=twitter&style=for-the-badge" alt="itbhaveshpandit" /></a> </p>
 
-- 💬 Ask me about **Learning Java Full Stack**
+- 💬 **Learning Java Full Stack**
 
 - 📫 How to reach me **bhaveshsharm.21@gmail.com**
 
 - ⚡ Fun fact **I am funny**
+
+- 🔴 **Master Mind to create Issues.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
