@@ -1,4 +1,3 @@
-![logo](https://github.com/bhaveshsharmaa/bhaveshsharmaa/blob/main/gthb.jpg)
 <h1 align="center">Hi 👋, I'm Bhavesh Kumar Sharma</h1>
 <h3 align="center">📍 𝙅𝙖𝙞𝙥𝙪𝙧 𝙍𝙖𝙟𝙖𝙨𝙩𝙝𝙖𝙣</h3>
 
