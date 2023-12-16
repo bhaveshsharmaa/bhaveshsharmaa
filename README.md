@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhavesh Kumar Sharma</h1>
+<h1 align="center">Hey 👋, I'm 𝐵𝐻𝒜𝒱𝐸𝒮𝐻</h1>
 <h3 align="center">📍 𝙅𝙖𝙞𝙥𝙪𝙧 𝙍𝙖𝙟𝙖𝙨𝙩𝙝𝙖𝙣</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://instagram.com/its_bhavesh_pandit" target="blank"><img src="https://img.shields.io/twitter/follow/its_bhavesh_pandit?logo=instagram&style=for-the-badge" alt="its_bhavesh_pandit" /></a> </p>
 
 
-- 💬 **Learning Java Full Stack**
+- 💬 **Learning Frontend Developer**
 
 - 📫 How to reach me **bhaveshsharm.21@gmail.com**
 
