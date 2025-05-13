@@ -10,11 +10,11 @@
 <p align="left"> <a href="https://instagram.com/its_bhavesh_pandit" target="blank"><img src="https://img.shields.io/twitter/follow/its_bhavesh_pandit?logo=instagram&style=for-the-badge" alt="its_bhavesh_pandit" /></a> </p>
 
 
-- 💬 **Learning Frontend Developer**
+- 💬 **Frontend Developer**
 
 - 📫 How to reach me **bhaveshsharm.21@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ In **web development,** the possibilities are **endless.**
 
 - 🔴 **Master Mind to create Issues.**
 
